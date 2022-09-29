@@ -1,0 +1,7 @@
+name: dummynotes
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - tqdm
+prefix: /Users/Spencer/miniconda3/envs/dummynotes
